@@ -1,0 +1,2 @@
+# VotePath-Election-Journey-Prototype
+VotePath is an interactive election guidance prototype that helps users understand the election process, timelines, and required steps through a visual journey instead of a traditional chatbot. It focuses on making voter education easier, more engaging, and easier to follow for first-time and general users.
